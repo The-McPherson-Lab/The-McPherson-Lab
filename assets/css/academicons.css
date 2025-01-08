@@ -122,10 +122,10 @@
 .ai-crossref-square:before {
   content: "\e919";
 }
-.ai-cv:before {
+.ai-members:before {
   content: "\e9a5";
 }
-.ai-cv-square:before {
+.ai-members-square:before {
   content: "\e90a";
 }
 .ai-datacite:before {
