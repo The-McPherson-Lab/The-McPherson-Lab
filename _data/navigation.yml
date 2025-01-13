@@ -17,14 +17,16 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
-    
+
+  - title: "Members"
+    url: /members/
+
   - title: "CV"
     url: /cv/
     
   - title: "Guide"
     url: /markdown/
     
-  - title: "Members"
-    url: /members/
+
