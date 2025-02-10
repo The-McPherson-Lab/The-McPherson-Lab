@@ -1,6 +1,4 @@
 ---
-permalink: /Members
-title: "Members"
 author_profile: true
 redirect_from: 
   - /members/
