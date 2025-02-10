@@ -1,6 +1,8 @@
+---
+layout: archive
+title: "Members"
+permalink: /members/
+author_profile: true
+---
 
-Member 1
-
-Member 2
-
-Member 3
+Hello members
